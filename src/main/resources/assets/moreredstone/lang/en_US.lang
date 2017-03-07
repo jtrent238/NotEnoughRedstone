@@ -1,0 +1,23 @@
+//jtrent238's Liferaft Mod Lang File
+//en_US
+
+//Items
+item.itemredstone_blue.name=Blue Redstone
+item.itemredstonetorch_blue.name=Blue Redstone Torch
+//Blocks
+tile.BlockRedstoneTorch_blue.name=Blue Redstone Torch
+tile.BlockRedstoneOre_blue.name=Blue Redstone Ore
+//Entitys
+
+//Mod Devs And Helpers
+entity.Entityjtrent238.name=jtrent238
+
+//Container
+//Generators
+//Achievements
+//Enchantments
+//Potions
+//ToolTips
+
+//Creative Tabs
+itemGroup.EpicProportionsMod=jtrent238's Epic Proportions Mod
